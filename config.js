@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'THOÁT RA LÀM CHỒNG EM :)))))))))) ',
     btnYes: 'Okkkkk iiuuuuu emmmm <33',
     btnNo: 'Không, cô bé à :3',
-    question:'Lí do em thích em là gì ??',
+    question:'Lí do anh thích em là gì ??',
     btnReply: 'Gửi đến em <3',
     reply: 'Vì em dethuonggg vllllllllllll <33333333',
     mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
